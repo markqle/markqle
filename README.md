@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mark.mqle@gmail.com**
 
-- 📞 How to contact me **657-339-0360**
+- 📞 How to contact me **657-339-3225**
 
 - 📄 Know about my experiences [https://markqle.github.io/docs/MarkLe_Resume.pdf](https://markqle.github.io/docs/MarkLe_Resume.pdf)
 
