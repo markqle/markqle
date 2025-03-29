@@ -15,7 +15,7 @@
 
 - 📞 How to contact me **657-339-3225**
 
-- 📄 Know about my experiences [https://markqle.github.io/docs/MarkLe_Resume.pdf](https://markqle.github.io/docs/MarkLe_Resume.pdf)
+- 📄 Know about my experiences [(https://portfolio-mark-les-projects.vercel.app/MarkLe_Resume.pdf)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
