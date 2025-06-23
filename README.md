@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Le</h1>
-<h3 align="center">A passionate Data Analyst & Engineer from California</h3>
+<h3 align="center">A passionate Data & Software Engineer from California</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markqle&label=Profile%20views&color=0e75b6&style=flat" alt="markqle" /> </p>
 
