@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markqle" alt="markqle" /></a> </p>
 
-- 🌱 I’m currently obtaining **Master of Science in Information Systems (Data Science) at California State University, Long Beach**
-
-- 👯 I’m looking to collaborate on **machine learning projects**
+- 👯 I’m looking to collaborate on **machine learning, data science projects**
 
 - 💬 Ask me about **python, spark, machine learning**
 
