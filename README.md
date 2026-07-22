@@ -35,9 +35,3 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
 </p>
-
-<h3 align="left">GitHub</h3>
-<p align="left">
-  <img src="https://img.shields.io/github/followers/markqle?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/markqle?label=Stars&style=social" alt="stars" />
-</p>
